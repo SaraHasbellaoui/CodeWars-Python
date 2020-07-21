@@ -37,18 +37,6 @@
 #  F(n) * F(n+1) = prod.
 # product means multipliers and dividors
 # a series means for the integer 'i' you enter, you get a series of 'i' values
-#  def productFib(prod):
-
-#     return
-
-# 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...
-
-# this function returns the fib of the 'i'th value
-# f(3)+f(2) = f(2)+f(1)= f(1)+
-
-
-# print(s8)
-# print(len(s8))
 
 
 def productFib(prod):
